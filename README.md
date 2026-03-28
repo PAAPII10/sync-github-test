@@ -4,3 +4,4 @@
 \n- Notification preview fix verified
 \n- Testing linked account name resolution
 \n- Member avatar in event cards
+\n- Testing unlinked user commit
