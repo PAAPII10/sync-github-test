@@ -3,3 +3,4 @@
 \n- Testing notification preview formatting
 \n- Notification preview fix verified
 \n- Testing linked account name resolution
+\n- Member avatar in event cards
